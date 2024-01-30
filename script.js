@@ -85,7 +85,7 @@ const questions = [
         hint: "Ele usa chapéu Verde"
     },
     {
-        question: "Quantos Rounds são necessarios para vencer uma partida de CS:Go atualmete ?",
+        question: "Quantos Rounds são necessarios para vencer uma partida de CS2 atualmente ?",
         answers: [
             { text: "13", correct: true },
             { text: "12", correct: false },
